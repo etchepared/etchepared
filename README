@@ -3,7 +3,7 @@
 Mi nombre es David y soy Desarrollador Web Full Stack! Cuento con un Título de grado de "Licenciado en Administración" lo cual es gran parte de mi forma de ver el mundo, pero la programación se ganó mi corazón, mi atención y prácticamente todo mi tiempo. Siempre disfruté los desafíos, la resolución de problemas y el aprendizaje continuo. Haber encontrado reunir todo esto y mucho más en un sólo ámbito me apasiona como no me había pasado antes.
 Mis planes son continuar aprendiendo y mejorando mis habilidades técnicas y blandas.
 
-Puedes ver algo de mi trabajo en https://github.com/etchepared/Pokemon-Repo donde consumo datos de https://pokeapi.co/ el proyecto fue escrito en Javascript utilizando ReactJS y Redux en el front, NodeJS y ExpressJS para el backend y Sequelize y PostgreSQL para la base de datos. Para los estilos utilicé css modules sin librearías.
+Puedes ver algo de mi trabajo en https://github.com/etchepared/Pokemon-Repo donde consumo datos de https://pokeapi.co/ el proyecto fue escrito en Javascript utilizando ReactJS y Redux en el front, NodeJS y ExpressJS para el backend y Sequelize y PostgreSQL para la base de datos. Para los estilos utilicé css modules sin librerías.
 
 Recientemente finalizamos con mi equipo un eCommerce utilizando Javascript, React, Redux, NodeJS, postgreSQL (puedes ver el deploy del proyecto en https://pffrontend-fafd3.web.app/). Actualmente me encuentro afianzandome en estas tecnologías pero con intenciones de sumar Typescript a mis proyectos en el corto plazo. 
 

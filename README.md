@@ -12,8 +12,6 @@ Puedes ver algo de mi trabajo en https://github.com/etchepared/Pokemon-Repo dond
 
 Recientemente finalizamos con mi equipo un eCommerce utilizando Javascript, React, Redux, NodeJS, postgreSQL (puedes ver el deploy del proyecto en https://pffrontend-fafd3.web.app/). Actualmente me encuentro afianzandome en estas tecnologías pero con intenciones de sumar Typescript a mis proyectos en el corto plazo.
 
-[https://www.linkedin.com/in/etcheparede/](https://www.linkedin.com/in/etcheparede/)
-
 <h3 align="left">No dudes en contactarme:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/etcheparede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etcheparede" height="30" width="40" /></a>

@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, mi nombre es David</h1>
 <h3 align="center">Soy Desarrollador Web Fullstack de Argentina</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/etchepared](https://github.com/etchepared)
+- 👨‍💻 Puedes ver mis proyectos en [https://github.com/etchepared](https://github.com/etchepared)
 
-- 📫 How to reach me **etcheparede@gmail.com**
+- 📫 También puedes contactarme en **etcheparede@gmail.com**
 
 - 📄 Cuento con un Título de grado de "Licenciado en Administración" lo cual es gran parte de mi forma de ver el mundo, pero la programación se ganó mi corazón, mi atención y prácticamente todo mi tiempo. Siempre disfruté los desafíos, la resolución de problemas y el aprendizaje continuo. Haber encontrado reunir todo esto y mucho más en un sólo ámbito me apasiona como no me había pasado antes.
 Mis planes son continuar aprendiendo y mejorando mis habilidades técnicas y blandas.
@@ -12,7 +12,7 @@ Puedes ver algo de mi trabajo en https://github.com/etchepared/Pokemon-Repo dond
 
 Recientemente finalizamos con mi equipo un eCommerce utilizando Javascript, React, Redux, NodeJS, postgreSQL (puedes ver el deploy del proyecto en https://pffrontend-fafd3.web.app/). Actualmente me encuentro afianzandome en estas tecnologías pero con intenciones de sumar Typescript a mis proyectos en el corto plazo.
 
-<h3 align="left">No dudes en contactarme:</h3>
+<h3 align="left">Más información en mi perfil:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/etcheparede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etcheparede" height="30" width="40" /></a>
 </p>

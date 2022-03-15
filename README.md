@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h1 align="center">Hola 👋, mi nombre es David</h1>
+<h3 align="center">Soy Desarrollador Web Fullstack de Argentina</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/etchepared](https://github.com/etchepared)
 
 - 📫 How to reach me **etcheparede@gmail.com**
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/etcheparede/](https://www.linkedin.com/in/etcheparede/)
+- 📄 Cuento con un Título de grado de "Licenciado en Administración" lo cual es gran parte de mi forma de ver el mundo, pero la programación se ganó mi corazón, mi atención y prácticamente todo mi tiempo. Siempre disfruté los desafíos, la resolución de problemas y el aprendizaje continuo. Haber encontrado reunir todo esto y mucho más en un sólo ámbito me apasiona como no me había pasado antes.
+Mis planes son continuar aprendiendo y mejorando mis habilidades técnicas y blandas.
 
-<h3 align="left">Connect with me:</h3>
+Puedes ver algo de mi trabajo en https://github.com/etchepared/Pokemon-Repo donde consumo datos de https://pokeapi.co/ el proyecto fue escrito en Javascript utilizando ReactJS y Redux en el front, NodeJS y ExpressJS para el backend y Sequelize y PostgreSQL para la base de datos. Para los estilos utilicé css modules sin librerías.
+
+Recientemente finalizamos con mi equipo un eCommerce utilizando Javascript, React, Redux, NodeJS, postgreSQL (puedes ver el deploy del proyecto en https://pffrontend-fafd3.web.app/). Actualmente me encuentro afianzandome en estas tecnologías pero con intenciones de sumar Typescript a mis proyectos en el corto plazo.
+
+[https://www.linkedin.com/in/etcheparede/](https://www.linkedin.com/in/etcheparede/)
+
+<h3 align="left">No dudes en contactarme:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/etcheparede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="etcheparede" height="30" width="40" /></a>
 </p>

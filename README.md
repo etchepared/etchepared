@@ -3,6 +3,8 @@
 
 - 👨‍💻 Puedes ver mis proyectos en [https://github.com/etchepared](https://github.com/etchepared)
 
+- </> Portfolio en https://portfolio-one-silk-33.vercel.app/ (en construcción)
+
 - 📫 También puedes contactarme en **etcheparede@gmail.com**
 
 - 📄 Cuento con un Título de grado de "Licenciado en Administración" lo cual es gran parte de mi forma de ver el mundo, pero la programación se ganó mi corazón, mi atención y prácticamente todo mi tiempo. Siempre disfruté los desafíos, la resolución de problemas y el aprendizaje continuo. Haber encontrado reunir todo esto y mucho más en un sólo ámbito me apasiona como no me había pasado antes.

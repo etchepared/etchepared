@@ -12,7 +12,7 @@ Mis planes son continuar aprendiendo y mejorando mis habilidades técnicas y bla
 
 Puedes ver algo de mi trabajo en https://github.com/etchepared/Pokemon-Repo donde consumo datos de https://pokeapi.co/ el proyecto fue escrito en Javascript utilizando ReactJS y Redux en el front, NodeJS y ExpressJS para el backend y Sequelize y PostgreSQL para la base de datos. Para los estilos utilicé css modules sin librerías.
 
-Recientemente finalizamos con mi equipo un eCommerce utilizando Javascript, React, Redux, NodeJS, postgreSQL (puedes ver el deploy del proyecto en https://pffrontend-fafd3.web.app/). Actualmente me encuentro afianzandome en estas tecnologías pero con intenciones de sumar Typescript a mis proyectos en el corto plazo.
+También puedes ver un eCommerce realizado en equipo utilizando Scrum como marco de trabajo y tecnologías Javascript, React, Redux, NodeJS, postgreSQL, links frontend: https://github.com/nicolasmayorquinduran/frontend_PF backend: https://github.com/maxisosa89/PF_backend_ecommerce . 
 
 <h3 align="left">Más información en mi perfil:</h3>
 <p align="left">

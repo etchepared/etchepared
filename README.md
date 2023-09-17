@@ -3,7 +3,7 @@
 
 - 👨‍💻 Puedes ver mis proyectos en [https://github.com/etchepared](https://github.com/etchepared)
 
-- </> Portfolio en https://portfolio-one-silk-33.vercel.app/ (en construcción)
+- </> Portfolio en [https://portfolio-one-silk-33.vercel.app/](https://portfolio-etchepared.vercel.app/) (en construcción)
 
 - 📫 También puedes contactarme en **etcheparede@gmail.com**
 

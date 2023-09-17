@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es David</h1>
 <h3 align="center">Soy Desarrollador Web Fullstack de Argentina</h3>
 
-- 👨‍💻 Puedes ver mis proyectos en [https://github.com/etchepared](https://github.com/etchepared)
+- 👨‍💻 Puedes ver mis proyectos aquí en [https://github.com/etchepared](https://github.com/etchepared)
 
 - </> Portfolio en [https://portfolio-etchepared.vercel.app/](https://portfolio-etchepared.vercel.app/) (en construcción)
 
